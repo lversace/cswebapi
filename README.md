@@ -1,12 +1,31 @@
 # cswebapi
-api
+
+General Instructions
+--------------------
+### 1. Visutal Studio Solution API
+
+This is the Web API application used to retrieve data
+
+### 2. Autocomplete client
+
+This React application consumes the API to show the data in the autocomplete component
 
 packages used in the autocomplete project
 npm install @material-ui/lab
 npm install --save axios
 
-To run the application.
-Run the Visual Studio solution (API)
+Restore the database file
+To run the application, start the Visua Studio Solutiion and run the application.
 
+
+```shell
 cd autocomplete
 npm start
+```
+
+
+* Database:
+    * Please restore the backup Instruments.bak file from the Database folder
+    * Instruments.bak
+   
+
