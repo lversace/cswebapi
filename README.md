@@ -24,8 +24,8 @@ npm start
 ```
 
 
-* Database:
-    * Please restore the backup Instruments.bak file from the Database folder
+### 3. Database:
+    * Please restore the backup Instruments.bak file from the cswebapi\Database folder
     * Instruments.bak
    
 
