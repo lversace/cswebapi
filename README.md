@@ -18,7 +18,7 @@ npm install --save axios
 ```
 
 Restore the database file
-To run the application, start the Visua Studio Solutiion and run the application.
+To run the application, start the Visua Studio Solution and run the application.
 
 
 ```shell
